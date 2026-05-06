@@ -52,8 +52,7 @@ Réduisez les ressources JavaScript inutilisées Économies estimées : 757 Kio
 
 Import d'un gros framework Bootstrap pour un usage minimal 
 1. **RWEB00111** - Limiter les outils d'analytics et les données collectées
-2. **RWEB0015** - N’utilisez que les portions indispensables des bibliothèques JavaScript et frameworks CSS (Import d'un gros framework Bootstrap pour un usage minimal 
-)
+2. **RWEB0015** - N’utilisez que les portions indispensables des bibliothèques JavaScript et frameworks CSS (Import d'un gros framework Bootstrap pour un usage minimal)
 3. **RWEB0009** - Éviter les animations JavaScript / CSS
 4. **RWEB0032** - Favoriser les polices standards (D'après le site de https://systemfontstack.com la police "Playfair Display" n'est pas standart))
 5. **RWEB0042** - Externaliser les CSS et JavaScript
