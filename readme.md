@@ -50,14 +50,21 @@ Réduisez les ressources JavaScript inutilisées Économies estimées : 757 Kio
 
 ## Mauvaise pratique
 
-### RWEB 0032 - Favoriser les polices standards
-D'après le site de https://systemfontstack.com la police "Playfair Display" n'est pas standart
-
-### RWEB 0046 - Ne charger des données ou du code que lorsque c’est indispensable
-Import excessif de polices ligne 8 
-
-### RWEB 0015 - N’utilisez que les portions indispensables des bibliothèques JavaScript et frameworks CSS
 Import d'un gros framework Bootstrap pour un usage minimal 
-
+1. **RWEB00111** - Limiter les outils d'analytics et les données collectées
+2. **RWEB0015** - N’utilisez que les portions indispensables des bibliothèques JavaScript et frameworks CSS (Import d'un gros framework Bootstrap pour un usage minimal 
+)
+3. **RWEB0009** - Éviter les animations JavaScript / CSS
+4. **RWEB0032** - Favoriser les polices standards (D'après le site de https://systemfontstack.com la police "Playfair Display" n'est pas standart))
+5. **RWEB0042** - Externaliser les CSS et JavaScript
+6. **RWEB0047** - Limiter le nombre de requêtes HTTP
+7. **RWEB0048** - Dimensionner correctement les images côté navigateur
+8. **RWEB0049** - Optimiser les images
+9. **RWEB0051** - Utiliser le chargement paresseux
+10. **RWEB0059** - Remplacer les boutons officiels de partage des réseaux sociaux
+11. **RWEB0076** - Compresser les fichiers texte : CSS, JS, HTML et SVG
+12. **RWEB0099** - Limiter l'utilisation des GIFs animés
+13. **RWEB0106** - Éviter la lecture et le chargement automatique des vidéos et des sons
+14. **RWEB0046** - Ne charger des données ou du code que lorsque c’est indispensable (Import excessif de polices ligne 8)
 
 
